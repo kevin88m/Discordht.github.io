@@ -1,0 +1,69 @@
+#wrap{
+background-color: blue;
+
+font-weight:170;
+flex-direction:row;
+font-family:Helvetica Neue,Helvetica,Arial,sans-serif;
+color:rgb(240, 237, 234)
+
+}
+
+.navbar{display:flex;
+    justify-content:center;
+}
+
+.Télé,.Nit,.Séc,.Assi,.Blo,.Emp {font-size:medium;
+padding: 5px;
+margin:  10Px;
+display:flex-end;
+list-style-type:none;
+}
+
+img.dis{margin-left: -10px;
+    justify-content:flex-start; 
+    }
+
+.seco {
+    justify-content:flex-end;
+    border: 0;
+    line-height: normal;
+    margin-top:20px;
+    margin-left:15px;
+    padding: 7px 16px;
+    font-size: 14px;
+    border-radius:40px;
+    text-align: center;
+    color: rgb(15, 14, 14);
+    background-color: rgb(255, 250, 250);
+    border-width: 3px 3px 10px;
+    width: 120px;
+    height: 50px;
+    background-color: white;
+        color: black;
+    }
+   
+}
+
+
+a:visited {
+  color:rgb(35, 106, 139);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(12, 13, 14);
+}
+
+/* selected link */
+a:active {
+  color: grey;
+}
+.Imag1{ font-weight:800;
+    text-transform: uppercase;
+  text-align:center;
+ font-family:"Ginto Nord","Whitney";}
+    
+    
+    
+
+
